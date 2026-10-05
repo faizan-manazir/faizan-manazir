@@ -110,7 +110,7 @@ The Islamia University of Bahawalpur
 
 I’m interested in connecting with cybersecurity professionals, researchers, students, and practitioners who enjoy **security engineering, ethical hacking, SOC, threat detection, and practical cybersecurity research**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan%20Manazir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-manazir-38046527/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan%20Manazir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-manazir-38046527a)
 [![GitHub](https://img.shields.io/badge/GitHub-faizan--manazir-181717?style=flat&logo=github&logoColor=white)](https://github.com/faizan-manazir)
 
 ---
